@@ -29,7 +29,7 @@ Building smart, user-focused systems with AI & product thinking
 - 🧩 Worked on structured project development lifecycle  
 - 🎯 Focused on delivering practical and scalable solutions  
 
-🔗 (Add your repo link here)
+🔗 [View Project](https://github.com/taneshkhandal07-debug/IBM-Product-managment-Capstone-project)
 
 ---
 
