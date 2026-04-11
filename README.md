@@ -62,7 +62,7 @@ Building smart, user-focused systems with AI & product thinking
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [linkedin](www.linkedin.com/in/tanesh-khandal)
+- 💼 LinkedIn: (www.linkedin.com/in/tanesh-khandal)
 - 📧 Email: (taneshkhandal07@gmail.com)
 
 ---
