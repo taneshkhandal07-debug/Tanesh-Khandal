@@ -51,11 +51,6 @@ Building smart, user-focused systems with AI & product thinking
 
 ---
 
-## 📸 Project Highlights
-
-> *(Add screenshots in your project repositories for best impact)*
-
----
 
 ## 🚀 Current Goals
 
