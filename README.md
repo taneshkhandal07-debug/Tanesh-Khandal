@@ -22,7 +22,7 @@ Building smart, user-focused systems with AI & product thinking
 
 ---
 
-### 🧠 IBM Capstone Project
+### 🌞 EcoHeat – Solar Water Heating System (🧠 IBM Capstone Project)
 > Industry-oriented project focused on real-world problem solving  
 
 - 📊 Applied analytical and problem-solving approaches  
