@@ -1,32 +1,64 @@
 # Hi, I'm Tanesh 👋
 
 🚀 Aspiring Product Manager | 🔐 Cybersecurity Enthusiast  
-Building smart, user-focused systems with AI & product thinking  
-🎯 Focused on solving real-world problems through technology  
+Building scalable, user-focused systems powered by AI, analytics & product thinking  
+🎯 Focused on solving real-world problems through technology & system design  
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🎓 Smart Campus AI System
-> AI-powered platform to improve student support experience
+### 🎓 Smart Campus AI System (Live 🚀)
+> AI-powered platform transforming student support with automation & role-based workflows
 
-- 🤖 Chatbot for instant query resolution (fees, exams, timetable, etc.)
-- 🛠 Complaint management system with status tracking
-- 👨‍💼 Role-based admin dashboard (HOD, TPO, Accounts, etc.)
-- 📊 Analytics for issue tracking & resolution efficiency
-- 🌙 Modern UI with dark mode & smooth interactions
+- 🤖 Intelligent chatbot for instant query resolution (fees, exams, timetable, etc.)
+- 🛠 End-to-end complaint management system with real-time tracking
+- 👨‍💼 Role-based admin dashboard (Admin, HOD, TPO, Accounts)
+- 📊 Analytics dashboard for monitoring resolution efficiency
+- ⏱ Auto-escalation system (Delayed complaints detection)
+- 🌙 Modern UI with dark mode, animations & smooth UX
+- 🌐 Fully deployed production-ready web app
 
-🔗 [View Project](https://github.com/taneshkhandal07-debug/Smart-Campus-AI-System)
+🔗 [Live Demo](https://smart-campus-ai-system.onrender.com)  
+🔗 [View Code](https://github.com/taneshkhandal07-debug/Smart-Campus-AI-System)
+
+---
+
+### 📊 RetailIQ — Interactive Retail Analytics Dashboard
+> Insight-driven retail dashboard built with pure frontend engineering
+
+- 📈 Interactive charts (sales, profit, regional analysis)
+- 🔍 Smart filtering (Year, Category, Region)
+- 🧠 Insight engine generating business observations
+- 📊 KPI-driven dashboard for decision-making
+- ⚡ Built using vanilla JS (no frameworks)
+- 🎨 Clean, modern UI with strong UX focus
+
+🔗 [Live Demo](https://taneshkhandal07-debug.github.io/retailiq-dashboard)  
+🔗 [View Code](https://github.com/taneshkhandal07-debug/retailiq-dashboard)
+
+---
+
+### 🛡 AI Phishing Detector
+> AI-based cybersecurity tool to detect malicious URLs and scam messages
+
+- 🔗 URL analysis for phishing detection
+- 📩 Scam message classification system
+- 🤖 Lightweight AI-driven logic
+- 🔐 Focused on real-world cybersecurity threats
+- ⚡ Fast and efficient detection system
+
+🔗 [View Project](https://github.com/taneshkhandal07-debug/phishguard-ai)
 
 ---
 
 ### 🌞 EcoHeat – Solar Water Heating System (🧠 IBM Capstone Project)
-> Industry-oriented project focused on real-world problem solving  
+> Industry-oriented project focused on sustainable and scalable solutions  
 
-- 📊 Applied analytical and problem-solving approaches  
-- 🧩 Worked on structured project development lifecycle  
-- 🎯 Focused on delivering practical and scalable solutions  
+- 📊 Applied structured problem-solving & analytical thinking  
+- 🧩 Worked across complete product development lifecycle  
+- 🎯 Focused on building practical, real-world impact solutions  
+- 🌍 Emphasis on sustainability & energy efficiency  
 
 🔗 [View Project](https://github.com/taneshkhandal07-debug/IBM-Product-managment-Capstone-project)
 
@@ -34,10 +66,11 @@ Building smart, user-focused systems with AI & product thinking
 
 ## 🧠 What I Focus On
 
-- 🎯 Product Management & User Experience  
-- 🔐 Cybersecurity & System Thinking  
-- 🤖 AI-powered solutions  
-- 📊 Building scalable and meaningful tech systems  
+- 🎯 Product Management & User Experience Design  
+- 🔐 Cybersecurity & Risk-Aware System Thinking  
+- 🤖 AI-driven problem solving & automation  
+- 📊 Data Analytics & Insight-driven systems  
+- ⚙️ Building scalable, efficient tech products  
 
 ---
 
@@ -45,26 +78,27 @@ Building smart, user-focused systems with AI & product thinking
 
 - 💻 Python (Flask)  
 - 🌐 HTML, CSS, JavaScript  
-- 🧠 Problem Solving & System Design  
-- 🔧 Git & GitHub  
+- 📊 Data Visualization (Chart.js)  
+- 🧠 System Design & Problem Solving  
+- 🔧 Git, GitHub & Deployment (Render, GitHub Pages)  
 
 ---
 
-
 ## 🚀 Current Goals
 
-- Building impactful real-world projects  
-- Exploring product management deeply  
-- Strengthening cybersecurity fundamentals  
-- Preparing for internships in PM & tech roles  
+- 🚀 Building high-impact, real-world tech products  
+- 📦 Developing strong product thinking & execution skills  
+- 🔐 Advancing in cybersecurity & system security fundamentals  
+- 📊 Strengthening data analytics & decision-driven systems  
+- 💼 Preparing for internships in Product, Tech & Cyber roles  
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: (www.linkedin.com/in/tanesh-khandal)
-- 📧 Email: (taneshkhandal07@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/tanesh-khandal  
+- 📧 Email: taneshkhandal07@gmail.com  
 
 ---
 
-⭐ If you like my work, feel free to explore and connect!
+⭐ If you find my work interesting, feel free to explore, connect, and collaborate!
