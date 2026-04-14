@@ -24,6 +24,22 @@ Building scalable, user-focused systems powered by AI, analytics & product think
 
 ---
 
+### 🛡 AI Phishing Detector (Live 🚀)
+> AI-based cybersecurity tool to detect malicious URLs and scam messages
+
+- 🔗 URL analysis for phishing detection
+- 📩 Scam message classification system
+- 🤖 Lightweight AI-driven logic
+- 🔐 Focused on real-world cybersecurity threats
+- ⚡ Fast and efficient detection system
+- 🌐 Deployed live using Streamlit
+
+🔗 [Live Demo](https://phishguard-ai-tanesh.streamlit.app/)  
+🔗 [View Code](https://github.com/taneshkhandal07-debug/phishguard-ai)
+
+---
+
+
 ### 📊 RetailIQ — Interactive Retail Analytics Dashboard
 > Insight-driven retail dashboard built with pure frontend engineering
 
@@ -34,21 +50,7 @@ Building scalable, user-focused systems powered by AI, analytics & product think
 - ⚡ Built using vanilla JS (no frameworks)
 - 🎨 Clean, modern UI with strong UX focus
 
-🔗 [Live Demo](https://taneshkhandal07-debug.github.io/retailiq-dashboard)  
 🔗 [View Code](https://github.com/taneshkhandal07-debug/retailiq-dashboard)
-
----
-
-### 🛡 AI Phishing Detector
-> AI-based cybersecurity tool to detect malicious URLs and scam messages
-
-- 🔗 URL analysis for phishing detection
-- 📩 Scam message classification system
-- 🤖 Lightweight AI-driven logic
-- 🔐 Focused on real-world cybersecurity threats
-- ⚡ Fast and efficient detection system
-
-🔗 [View Project](https://github.com/taneshkhandal07-debug/phishguard-ai)
 
 ---
 
@@ -76,11 +78,11 @@ Building scalable, user-focused systems powered by AI, analytics & product think
 
 ## 🛠 Tech Stack
 
-- 💻 Python (Flask)  
+- 💻 Python (Flask, Streamlit)  
 - 🌐 HTML, CSS, JavaScript  
 - 📊 Data Visualization (Chart.js)  
 - 🧠 System Design & Problem Solving  
-- 🔧 Git, GitHub & Deployment (Render, GitHub Pages)  
+- 🔧 Git, GitHub & Deployment (Render, Streamlit, GitHub Pages)  
 
 ---
 
